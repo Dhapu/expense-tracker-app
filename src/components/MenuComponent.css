@@ -1,0 +1,26 @@
+.main-container {
+    display: flex; 
+  flex-direction: column; 
+  width: 600px; 
+  max-width: 100%; 
+  background-color: #fff; 
+  padding: 30px 20px; 
+  border: 1px solid #000; 
+  border-radius: 5px; 
+  margin: 10px; 
+}
+
+.header {
+  margin-top: -40px;
+  font-size: 25px; 
+  font-weight: bold; 
+  text-align: center; 
+  
+}
+.expense-container {
+    display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  gap: 20px; 
+  margin-bottom: 25px; 
+}

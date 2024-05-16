@@ -1,0 +1,27 @@
+.secondComponent {
+    margin-top: -20px;
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    margin-bottom: 25px; 
+}
+
+.balance {
+ font-weight: 500;
+}
+
+.balance span {
+    color: #44E610;
+    font-weight: bold;
+}
+
+.add-button {
+    cursor: pointer; 
+  background-color: rgb(68, 230, 16); 
+  color: rgb(255, 255, 255); 
+  padding: 7px 20px; 
+  font-size: 16px; 
+  border: none; 
+  text-transform: uppercase; 
+  border-radius: 5px; 
+}
